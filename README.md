@@ -67,7 +67,7 @@ Work with multi-dimensional arrays to perform matrix operations.
    Add two matrices and print the result.
 
 **Starter Code File:**  
-`MulDimArrays.java`
+`MatrixOperations.java`
 
 ---
 
